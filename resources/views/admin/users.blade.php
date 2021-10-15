@@ -26,7 +26,7 @@
        @include("admin.navbar")
 
        <h1>USERRRRR </h1>
-
+        <h1>hi</h1>
 </div>
        @include("admin.adminscript")
        
